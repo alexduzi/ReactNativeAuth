@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/duzi/ReactNativeProjects/auth/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/duzi/auth/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

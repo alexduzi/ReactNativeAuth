@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5fb179dc6069b9db93aa387d1e84d32024932424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_c4b1eabfc80b26ea875f28ec5bb3641fa72ed7de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/9f1317d8a1b4b36e2c5b6c2795ea3417fb0bccce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_0b4658a4ac8cd6830a119618d0ed82fb8de788c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8679da487d9e01d4f8fb4d93f833f7304dcb136c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/f0505fff43b94271cd19ea0a977da0b95c903792/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_979c3b501b0378230ecf78c0e1f1f97d8babff4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e78da1c93871f04cb294ea365b870330aefcf89b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_367fe436cb4f97f9b2478cf4b2960648948d5908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/1b117758c32987d0d552979832d930cda75479c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_03217bfbaf3679c3579e7be10d160a514dc867a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4f054f94682d7a884194922894af1b3a2bdcf643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/d0b1e748ae182e41eacd32fbaef7af8fe5f5dfb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_fbe17d1acafa1d31f246a47c9bff2263f47d046f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/4320707865a13230a56d3038e8f866a0b0ed349a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_f17a242d98f38d91fc9b0b21795dcc6308eb63a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_e75ea68f6058e4864b3fbc392d7de8e4814ff07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/668ccfaa0e495a331de4260b3938c81109b8c51d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_5fbdb08b605e2f1a0d35f798f633eaa004b5be1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_8a21c49dedfa111757590053996696141d11e4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/4a3011eb9ea52b716d8b2b63bd9007a69d0cb2cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_eb79f7cfb22d89f1d53182d6db93e6b7e24f04e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/1aca2b63e9699b532adda4e73053c3665cba0efa/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_14f9d7d6564f8c5acfc8cf649f5cab14f5592f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/f0505fff43b94271cd19ea0a977da0b95c903792/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_c572b6351de7c9f5af59fa629f8b1517aa2bffd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/7579509b3b5a9a4f0b04f32c04348a50fc059d61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_3a67a0652586b38a5f39292ab387836dbf5af605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/4b306531389e22a6bf6dcfd539f66e6a8f199682/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_143ea2a638d4be1fe99e94b391628f793449118c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.android/build-cache/1aca2b63e9699b532adda4e73053c3665cba0efa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/classes_c517fc372d8e5a10eeeebe6207f07a50074d863e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8d2fea6a868b0d5b599845714ced005bcf9609b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/duzi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_8ddebe2b24e404b12bfb88dcb25e56c3aba53eef.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/duzi/.android/build-cache/f0505fff43b94271cd19ea0a977da0b95c903792/output/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/auth/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/duzi/auth/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/duzi/ReactNativeProjects/auth/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/duzi/.android/build-cache/dac5efec4f363895539ef7dc5e428c4dc7c9475c/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]
